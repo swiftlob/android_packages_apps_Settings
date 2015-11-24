@@ -328,4 +328,9 @@
     <string name="app_ops_labels_write_external_storage">Write to external storage</string>
     <string name="app_ops_labels_write_mms">Write an MMS message</string>
     <string name="app_ops_labels_write_sms">Write SMS</string>
+
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="ok_string">Ok</string>
 </resources>
